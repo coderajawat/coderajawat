@@ -10,7 +10,7 @@
 <br>
 🌱 I'm currently learning about the latest trends in Information Technology and advanced coding practices. 
 <br>
-⚡I thrive on new challenges and love exploring the intersection of technology and creativity!
+⚡ I thrive on new challenges and love exploring the intersection of technology and creativity!
 
 ## 🌐 Socials:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khushi-rajawat-34309a211) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khushirajawat___) 
